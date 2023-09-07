@@ -9,7 +9,7 @@ This is a package to run the Monty Hall game. This is an assignment for ASU's PA
 To test if the package installed correctly, try the function create_game(). This should output some combination of
 "goat" "goat" "car". 
 
-The primary functions of this package are play_game() which will run the entire code and output win or lose for
+The primary function of this package is play_game() which will run the entire code and output win or lose for
 the contestant based upon staying or changing doors.
 
 The advanced function of this package is play_n_games() which will accept an integer for how many games you
