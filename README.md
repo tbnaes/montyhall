@@ -13,7 +13,7 @@ The primary function of this package is play_game() which will run the entire co
 the contestant based upon staying or changing doors.
 
 The advanced function of this package is play_n_games() which will accept an integer for how many games you
-would like to play. This will output the probabilities of winning based upon staying or losing for n number
-of games, as well as show the games and the outcomes for each individual playing in a data frame.
+would like to play. This will output a data frame of the probabilities of winning based upon staying or losing 
+for n number of games, as well as show the games and the outcomes for each individual playing.
 
 Thanks for visiting my github! 
