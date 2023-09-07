@@ -1,5 +1,5 @@
 # montyhall
-This is a package to run the Monty Hall game as well as an assignment for ASU's PAF514 graduate program course. 
+This is a package to run the Monty Hall game and an assignment for ASU's PAF514 graduate program course. 
 
 Some background info on the Monty Hall game itself is that this is a classic game show set up where a guest
 has three doors to choose from. Behind the doors are two goats and one car. The contestant picks one door from
