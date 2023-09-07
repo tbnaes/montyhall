@@ -1,5 +1,7 @@
 # montyhall
 PEDA Project Play Monty Hall
+
+
 Some background info on the monty hall game itself is that this is a classic game show set up where a guest
 has three doors to choose from. Behind the doors are two goats and one car. The contestant picks one door from
 the three, then is shown one goat from the doors not chosen. The guest then can choose to stay with the initial
